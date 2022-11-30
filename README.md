@@ -44,3 +44,8 @@ npm start
 ```
 
 API server runs at `localhost:8080`
+
+## Shiftapp run instructions 
+start a expo app 
+Add the files in shift_app folder
+run through an emulator using the command :> expo start
